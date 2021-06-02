@@ -7,5 +7,6 @@ class Demo{
   }    
   System.out.println("Factorial of "+number+" is: "+fact);  
   System.out.println("From Bitbucket"); 
+   System.out.println("From Bitbucket fetch"); 
  }  
 }
